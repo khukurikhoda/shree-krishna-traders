@@ -1,0 +1,620 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "5 inch Khukuri",
+      "price": "Rs.1099/pic",
+      "image": "55.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 2,
+      "name": "NORMAL DAU",
+      "price": "Rs.1499/PIC",
+      "image": "2p.webp",
+      "category": "dau"
+    },
+    {
+      "id": 3,
+      "name": "chulesi",
+      "price": "Rs.1700",
+      "image": "78.webp",
+      "category": "knife"
+    },
+    {
+      "id": 4,
+      "name": "5INCH WHITE BONE HANDLE KHUKURI",
+      "price": "Rs.1799",
+      "image": "39.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 5,
+      "name": "JAPANEESE DAU",
+      "price": "Rs.3000/PIC",
+      "image": "hdau.webp",
+      "category": "dau"
+    },
+    {
+      "id": 6,
+      "name": "DAU HIGH FINISHING",
+      "price": "Rs.1999/pic",
+      "image": "u.webp",
+      "category": "dau"
+    },
+    {
+      "id": 7,
+      "name": "10 inch khukuri",
+      "price": "Rs.1999",
+      "image": "62.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 8,
+      "name": "Bhojpuri khukuri 6 inch",
+      "price": "Rs.2199",
+      "image": "71.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 9,
+      "name": "NORMAL DAU WITH COVER (LEATHER)",
+      "price": "Rs.2499",
+      "image": "s.webp",
+      "category": "dau"
+    },
+    {
+      "id": 10,
+      "name": "Bhojpuri khukuri 8 inch",
+      "price": "Rs.2799",
+      "image": "66.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 11,
+      "name": "Bhojpuri khukuri 8 inch",
+      "price": "Rs.2799",
+      "image": "63.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 12,
+      "name": "KNIFE LEATHER COVER",
+      "price": "Rs.4000",
+      "image": "wow.webp",
+      "category": "knife"
+    },
+    {
+      "id": 13,
+      "name": "RAINBOW KNIFE 8INCH",
+      "price": "Rs.4000",
+      "image": "38.webp",
+      "category": "knife"
+    },
+    {
+      "id": 14,
+      "name": "1.2KG DAU",
+      "price": "Rs.2999",
+      "image": "42.webp",
+      "category": "dau"
+    },
+    {
+      "id": 15,
+      "name": "RAMBO KNIFE 5inch",
+      "price": "Rs.2999",
+      "image": "q.webp",
+      "category": "knife"
+    },
+    {
+      "id": 16,
+      "name": "KHUKURI 7 INCH WITH STAND",
+      "price": "Rs.2999",
+      "image": "7inc.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 17,
+      "name": "750GRAM DAU WITH COVER",
+      "price": "Rs.3499",
+      "image": "40.webp",
+      "category": "dau"
+    },
+    {
+      "id": 18,
+      "name": "900GRAM DAU WITH COVER",
+      "price": "Rs.3499",
+      "image": "41.webp",
+      "category": "dau"
+    },
+    {
+      "id": 19,
+      "name": "Curve Dau High Quality",
+      "price": "Rs.3499",
+      "image": "59.webp",
+      "category": "dau"
+    },
+    {
+      "id": 20,
+      "name": "RAMBO KNIFE BONE HANDLE",
+      "price": "Rs.3999",
+      "image": "43.webp",
+      "category": "knife"
+    },
+    {
+      "id": 21,
+      "name": "BLACK RAMBO TYPE DAU LEATHER COVER",
+      "price": "Rs.3499",
+      "image": "32.webp",
+      "category": "dau"
+    },
+    {
+      "id": 22,
+      "name": "RAMBO KNIFE 10 inch",
+      "price": "Rs.3999",
+      "image": "46.webp",
+      "category": "knife"
+    },
+    {
+      "id": 23,
+      "name": "KHUKURI 10 inch WOOD HANDLE BLACK COVER",
+      "price": "Rs.3500",
+      "image": "woodh.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 24,
+      "name": "GreenLeaf 9 inch",
+      "price": "Rs.4499",
+      "image": "69.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 25,
+      "name": "KHUKURI 10 INCH BROWN LEATHER WITH STAND",
+      "price": "Rs.4899",
+      "image": "pink.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 26,
+      "name": "S.KNIFE",
+      "price": "Rs.4999",
+      "image": "45.webp",
+      "category": "knife"
+    },
+    {
+      "id": 27,
+      "name": "10inch SAFTEY KNIFE",
+      "price": "Rs.4999",
+      "image": "47.webp",
+      "category": "knife"
+    },
+    {
+      "id": 28,
+      "name": "900 gram Dau with high quality leather cover",
+      "price": "Rs.4499",
+      "image": "60.webp",
+      "category": "dau"
+    },
+    {
+      "id": 29,
+      "name": "TIGER KNIFE",
+      "price": "Rs.4999",
+      "image": "tigerknife.webp",
+      "category": "knife"
+    },
+    {
+      "id": 30,
+      "name": "KHUKURI BONE HANDLE PANA 10 INCH",
+      "price": "Rs.4999",
+      "image": "paro.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 31,
+      "name": "10inch SAFTEY KNIFE LEATHER COLOUR",
+      "price": "Rs.4999/pic",
+      "image": "48.webp",
+      "category": "knife"
+    },
+    {
+      "id": 32,
+      "name": "5inch BLADE,BONE HANDLE AND HIDING KHUKURI",
+      "price": "Rs.4999",
+      "image": "58.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 33,
+      "name": "11INCH KHUKURI TYPE KNIFE",
+      "price": "Rs.4999",
+      "image": "44.webp",
+      "category": "knife"
+    },
+    {
+      "id": 34,
+      "name": "THAILAND TYPE FISH CUTTING DAU 1.3KG",
+      "price": "Rs.4999",
+      "image": "37.webp",
+      "category": "dau"
+    },
+    {
+      "id": 35,
+      "name": "S KNIFE",
+      "price": "Rs.4999",
+      "image": "33.webp",
+      "category": "knife"
+    },
+    {
+      "id": 36,
+      "name": "KHUKURI 11inch WOOD HANDLE",
+      "price": "Rs.4999",
+      "image": "34.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 37,
+      "name": "KHUKURI 10 INCH MIX COLOUR WITH STAND",
+      "price": "Rs.4999",
+      "image": "random.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 38,
+      "name": "RANBOW KNIFE WOOD COVER",
+      "price": "Rs.4999",
+      "image": "wood.webp",
+      "category": "knife"
+    },
+    {
+      "id": 39,
+      "name": "RANBOW KNIFE bone handle",
+      "price": "Rs.4999",
+      "image": "57.webp",
+      "category": "knife"
+    },
+    {
+      "id": 40,
+      "name": "BONE HANDLE KHUKURI",
+      "price": "Rs.4999",
+      "image": "AGAD5926.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 41,
+      "name": "Dragon Eagle 10 inch",
+      "price": "Rs.4999",
+      "image": "64.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 42,
+      "name": "Kitchen Knife",
+      "price": "Rs.4999/PIC",
+      "image": "churi.webp",
+      "category": "knife"
+    },
+    {
+      "id": 43,
+      "name": "FISH KNIFE 1.3KG WITH COVER",
+      "price": "Rs.5499",
+      "image": "50.webp",
+      "category": "knife"
+    },
+    {
+      "id": 44,
+      "name": "13 inch chitlang and sirupate khukuri",
+      "price": "Rs.5500/PIC",
+      "image": "51.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 45,
+      "name": "GREEN LEAFS KHUKURI 10inch",
+      "price": "Rs.5999",
+      "image": "31.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 46,
+      "name": "GreenLeaf 10 inch black cover",
+      "price": "Rs.5999",
+      "image": "70.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 47,
+      "name": "13 inch blade 5 inch Handle full brash ane cover geniune leather",
+      "price": "Rs.6499",
+      "image": "72.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 48,
+      "name": "SIRUPATE KHUKURI ALUMINIUM HANDLE 13 INCH",
+      "price": "Rs.6499",
+      "image": "silver.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 49,
+      "name": "GreenLeaf 12 inch",
+      "price": "Rs.6499",
+      "image": "65.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 50,
+      "name": "DHAL FULL BRASS (1KG 12INCH)",
+      "price": "Rs.6499",
+      "image": "30.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 51,
+      "name": "Khoda Type Dau",
+      "price": "Rs.6499",
+      "image": "sdau.webp",
+      "category": "dau"
+    },
+    {
+      "id": 52,
+      "name": "Dragon eagel10 inch ganga wall",
+      "price": "Rs.6500",
+      "image": "68.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 53,
+      "name": "Clean Dau Fish Cutting",
+      "price": "Rs.6499",
+      "image": "56.webp",
+      "category": "dau"
+    },
+    {
+      "id": 54,
+      "name": "DHANKUTE KHUKURI WITH STAND",
+      "price": "Rs.6999",
+      "image": "dhunkute.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 55,
+      "name": "KHUKURI HIGH QUALITY LEATHER",
+      "price": "Rs.7999",
+      "image": "khuk.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 56,
+      "name": "LEATHER BAG",
+      "price": "Rs.8999",
+      "image": "leather.webp",
+      "category": "accessory"
+    },
+    {
+      "id": 57,
+      "name": "20 inch khukuri mar hanne",
+      "price": "Rs.8999",
+      "image": "52.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 58,
+      "name": "21 inch pana Khukuri",
+      "price": "Rs.9999",
+      "image": "53.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 59,
+      "name": "sumurai",
+      "price": "Rs.12000",
+      "image": "77.webp",
+      "category": "knife"
+    },
+    {
+      "id": 60,
+      "name": "KHODA LEATHER COVER 22 inch blade",
+      "price": "Rs.13499",
+      "image": "y.webp",
+      "category": "khoda"
+    },
+    {
+      "id": 61,
+      "name": "DRAGON KHODA ONLY WOOD HANDLE",
+      "price": "Rs.12999",
+      "image": "open.webp",
+      "category": "khoda"
+    },
+    {
+      "id": 62,
+      "name": "CUT DESIGN WOOD HANDLE KHODA",
+      "price": "Rs.12999",
+      "image": "75.webp",
+      "category": "khoda"
+    },
+    {
+      "id": 63,
+      "name": "KHODA",
+      "price": "Rs.12999",
+      "image": "61.webp",
+      "category": "khoda"
+    },
+    {
+      "id": 64,
+      "name": "KHODA",
+      "price": "Rs.12999",
+      "image": "76.webp",
+      "category": "khoda"
+    },
+    {
+      "id": 65,
+      "name": "KHODA 22INCH BLADE 10 INCH HANDLE",
+      "price": "Rs.13999",
+      "image": "khoda.webp",
+      "category": "khoda"
+    },
+    {
+      "id": 66,
+      "name": "TIGER HANDLE TARBAL 31 inch",
+      "price": "Rs.15499",
+      "image": "r.webp",
+      "category": "tarbal"
+    },
+    {
+      "id": 67,
+      "name": "TARBAL 31 inch",
+      "price": "Rs.15999",
+      "image": "t.webp",
+      "category": "tarbal"
+    },
+    {
+      "id": 68,
+      "name": "Khoda 24 inch blade 13 inch handle 2.8kg weight with cover",
+      "price": "Rs.16499",
+      "image": "74.webp",
+      "category": "khoda"
+    },
+    {
+      "id": 69,
+      "name": "24 inch blade bras Handel",
+      "price": "Rs.23000",
+      "image": "81.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 70,
+      "name": "Full Wall Set talbar 32 inch length",
+      "price": "Rs.46000",
+      "image": "82.webp",
+      "category": "tarbal"
+    },
+    {
+      "id": 71,
+      "name": "Full Wall Set talbar",
+      "price": "Rs.44500",
+      "image": "83.webp",
+      "category": "tarbal"
+    },
+    {
+      "id": 72,
+      "name": "Tarbal",
+      "price": "Rs.19000",
+      "image": "84.webp",
+      "category": "tarbal"
+    },
+    {
+      "id": 73,
+      "name": "Samurai(Katana) 18 inch",
+      "price": "Rs.11000",
+      "image": "85.webp",
+      "category": "knife"
+    },
+    {
+      "id": 74,
+      "name": "Khoda with lether cover 22 inch",
+      "price": "Rs.13000",
+      "image": "86.webp",
+      "category": "khoda"
+    },
+    {
+      "id": 75,
+      "name": "Dau",
+      "price": "Rs.4000",
+      "image": "87.webp",
+      "category": "dau"
+    },
+    {
+      "id": 76,
+      "name": "Khoda (penguin handle)",
+      "price": "Rs.23000",
+      "image": "88.webp",
+      "category": "khoda"
+    },
+    {
+      "id": 77,
+      "name": "Khukuri 10\"",
+      "price": "Rs.4000",
+      "image": "89.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 78,
+      "name": "Hasiya",
+      "price": "Rs.1500/pic",
+      "image": "90.webp",
+      "category": "knife"
+    },
+    {
+      "id": 79,
+      "name": "5 inch wood handal pana walla",
+      "price": "Rs.2200",
+      "image": "91.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 80,
+      "name": "10 inch fish type knife khukuri",
+      "price": "Rs.4999",
+      "image": "92.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 81,
+      "name": "Horn Handel Rambo knife 9 inch",
+      "price": "Rs.4499",
+      "image": "93.webp",
+      "category": "knife"
+    },
+    {
+      "id": 82,
+      "name": "8 inch Rambo knife orginal leather cover",
+      "price": "Rs.4999",
+      "image": "94.webp",
+      "category": "knife"
+    },
+    {
+      "id": 83,
+      "name": "5 inch blade bone Handle",
+      "price": "Rs.2499",
+      "image": "95.webp",
+      "category": "knife"
+    },
+    {
+      "id": 84,
+      "name": "Trishul (trident)",
+      "price": "Rs.14999",
+      "image": "96.webp",
+      "category": "knife"
+    },
+    {
+      "id": 85,
+      "name": "Talbar 31 inch",
+      "price": "Rs.18000/PIC",
+      "image": "99.webp",
+      "category": "tarbal"
+    },
+    {
+      "id": 86,
+      "name": "9 inch pana",
+      "price": "Rs.3300",
+      "image": "98.webp",
+      "category": "khukuri"
+    },
+    {
+      "id": 87,
+      "name": "Rambo Knife",
+      "price": "Rs.5000",
+      "image": "100.webp",
+      "category": "knife"
+    },
+    {
+      "id": 88,
+      "name": "Khukuri 5 inch",
+      "price": "Rs.2000",
+      "image": "101.webp",
+      "category": "khukuri"
+    }
+  ]
+}
