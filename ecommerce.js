@@ -111,28 +111,37 @@ function displayProducts() {
 
 // Create product card
 function createProductCard(product) {
-    const col = document.createElement('div');
-    col.className = 'col-lg-4 col-md-6 mb-4';
-    
-    const isLatest = product.id >= 79; // Latest products
-    
-    col.innerHTML = `
+    const card = document.createElement('div');
+    card.className = 'col-md-6 col-lg-4 mb-4';
+    card.innerHTML = `
         <div class="product-card">
-            <div class="position-relative overflow-hidden">
-                <img src="images/${product.image}" alt="${product.name}" class="product-image w-100">
-                ${isLatest ? '<span class="product-badge">NEW</span>' : ''}
+            <div class="product-image-container">
+                <img src="${product.image}" alt="${product.name}" class="product-image">
+                <div class="product-overlay">
+                    <button class="btn btn-success whatsapp-btn" onclick="orderViaWhatsApp('${product.name}', '${product.price}')">
+                        <i class="fab fa-whatsapp me-2"></i>Order Now
+                    </button>
+                </div>
             </div>
-            <div class="p-3">
-                <h5 class="product-title">${product.name}</h5>
+            <div class="product-info">
+                <h5 class="product-name">${product.name}</h5>
                 <p class="product-price">${product.price}</p>
-                <button class="btn btn-primary btn-add-cart w-100" onclick="addToCart(${product.id})">
-                    <i class="fas fa-shopping-cart me-2"></i>Add to Cart
-                </button>
+                <div class="product-actions">
+                    <button class="btn btn-primary add-to-cart" onclick="addToCart(${product.id})">
+                        <i class="fas fa-cart-plus me-2"></i>Add to Cart
+                    </button>
+                </div>
             </div>
         </div>
     `;
-    
-    return col;
+    return card;
+}
+
+// Order via WhatsApp
+function orderViaWhatsApp(productName, productPrice) {
+    const message = `Hello! I would like to order:\n\n📦 Product: ${productName}\n💰 Price: ${productPrice}\n\nPlease provide payment and delivery details.\n\nThank you!`;
+    const whatsappUrl = `https://wa.me/9779864563255?text=${encodeURIComponent(message)}`;
+    window.open(whatsappUrl, '_blank');
 }
 
 // Add product to cart
